@@ -115,7 +115,7 @@ export default function Home() {
           <h2 className="text-brand-cream text-4xl md:text-5xl font-black mt-2 mb-4 leading-tight">
             Real Drops,<br />Real Drip
           </h2>
-          <p className="text-brand-cream/70 max-w-lg mx-auto mb-7 text-base leading-relaxed">
+          <p className="text-brand-cream/70 max-w-lg mx-auto mb-7 text-black leading-relaxed">
             Every SHiNi piece is a statement. Real product, hand-picked from the streets — heavyweight denim, fleece hoodies, graphic tees, and outerwear built for those who dress with intention.
           </p>
           <button onClick={() => navigate('/about')} className="bg-brand-cream text-brand-bg font-bold px-8 py-3.5 rounded-lg hover:bg-brand-accent hover:text-white transition-all duration-200">
